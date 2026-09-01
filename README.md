@@ -65,6 +65,14 @@ Déploiement Automatisé (CI/CD) : Chaque mise à jour poussée sur la branche p
 
 Optimisation des Performances : Distribution des pages statiques via des nœuds CDN pour minimiser la latence mondiale.
 
+🎨 Charte Graphique Officielle (NDI)
+
+- **Bleu Ciel Marial (`#72C7FF`) :** Couleur dominante d'arrière-plan & identité visuelle.
+- **Bleu Nuit (`#1B2449`) :** Navigation, pieds de page et typographies fortes.
+- **Or / Jaune Sacré (`#FFD700`) :** Boutons d'action, alertes et éléments de mise en valeur.
+- **Police Titres :** `Cinzel` / `Playfair Display` (Serif).
+- **Police Texte :** `Inter` (Sans-Serif).
+
 📜 Licence & Propriété
 Propriété du Produit Final & du Code Source
 Propriétaire du Produit Final : L'intégralité du produit fini (l'application déployée, les médias, les contenus, le nom de domaine, l'image officielle et la marque) est la propriété exclusive et inaliénable de la Paroisse Notre-Dame de l'Incarnation.
